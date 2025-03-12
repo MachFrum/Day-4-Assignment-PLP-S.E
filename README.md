@@ -1,8 +1,6 @@
 # Day- 4- Assignment- PLP- S.E
+
 Week 1, Day 4
-
-
-Git repo: https://github.com/MachFrum/Day- 4- Assignment- PLP- S.E.git
 
 Q 1: Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
 
