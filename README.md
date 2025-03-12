@@ -87,6 +87,7 @@ Strategies to Prevent Budget Overruns:
 9. Implement Change Control Systems:
   -  Have a formal process for any changes to the project. This will help to analyze the impact of changes to the budget, and project timeline.
 
+
 Q 3: Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
 A 3: Agile and Waterfall are two distinct project management methodologies, each with its own approach to software development and project execution. Here's a comparison and contrast of the two, along with their main advantages and disadvantages:
@@ -104,6 +105,7 @@ Waterfall Methodology:
    -  Inflexibility: Changes are difficult and costly to implement once the project is underway.
    -  Late Testing: Testing is done at the end of the project, which means that bugs are found later in the process when they are more expensive to fix.
    -  Risk of Obsolescence: In long-term projects, the final product may be outdated by the time it is delivered due to the fast pace of technological change.
+
 
   Agile Methodology:  
 
@@ -306,7 +308,7 @@ A 7: Developing a detailed project schedule is a cornerstone of effective projec
 
 Q 8: What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
-An 8: My software solution is a B2B marketplace for small to medium businesses.
+A 8: My software solution is a B2B marketplace for small to medium businesses.
 
 A B2B marketplace for small to medium businesses (SMBs) aims to address several core issues that are highly significant to the target audience. Here's a breakdown:
 
