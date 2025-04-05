@@ -1,4 +1,4 @@
-# Day- 4- Assignment- PLP- S.E
+# Day- 4- Assignment- PLP- S.E.
 
 QUESTIONS: SE_DAY4_Software-Project-Management
 -
